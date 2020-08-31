@@ -1,0 +1,7 @@
+C:\Users\xaker\source\repos\3_msp_HM\3_msp_HM\bin\Debug\3_msp_HM.exe.config
+C:\Users\xaker\source\repos\3_msp_HM\3_msp_HM\bin\Debug\3_msp_HM.exe
+C:\Users\xaker\source\repos\3_msp_HM\3_msp_HM\bin\Debug\3_msp_HM.pdb
+C:\Users\xaker\source\repos\3_msp_HM\3_msp_HM\obj\Debug\3_msp_HM.csprojAssemblyReference.cache
+C:\Users\xaker\source\repos\3_msp_HM\3_msp_HM\obj\Debug\3_msp_HM.csproj.CoreCompileInputs.cache
+C:\Users\xaker\source\repos\3_msp_HM\3_msp_HM\obj\Debug\3_msp_HM.exe
+C:\Users\xaker\source\repos\3_msp_HM\3_msp_HM\obj\Debug\3_msp_HM.pdb
